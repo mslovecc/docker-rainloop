@@ -16,7 +16,6 @@ services:
       - 1337:80
     networks:
       - default
-      - nginxproxy
 
   application:
     image: hermsi/alpine-rainloop
