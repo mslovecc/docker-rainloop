@@ -1,0 +1,7 @@
+{
+	"name": "rainloop",
+	"description": "rainloop",
+	"keywords": ["rainloop"],
+	"repository": "https://github.com/mslovecc/docker-rainloop",
+	"stack": "container"
+}
