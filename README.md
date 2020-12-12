@@ -1,3 +1,6 @@
+Deply
+https://dashboard.heroku.com/new?template=https://github.com/mslovecc/mtproto-heroku
+
 ## Make your Rainloop fly on Alpine
 
 ### Overview
